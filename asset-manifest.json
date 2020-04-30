@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/live-word-now/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/live-word-now/static/js/main.4fe3a74b.chunk.js",
+    "main.js.map": "/live-word-now/static/js/main.4fe3a74b.chunk.js.map",
+    "runtime-main.js": "/live-word-now/static/js/runtime-main.33045d70.js",
+    "runtime-main.js.map": "/live-word-now/static/js/runtime-main.33045d70.js.map",
+    "static/js/2.4f488296.chunk.js": "/live-word-now/static/js/2.4f488296.chunk.js",
+    "static/js/2.4f488296.chunk.js.map": "/live-word-now/static/js/2.4f488296.chunk.js.map",
+    "index.html": "/live-word-now/index.html",
+    "precache-manifest.9f67a6ffdc9eadd93bd13351f0e00525.js": "/live-word-now/precache-manifest.9f67a6ffdc9eadd93bd13351f0e00525.js",
+    "service-worker.js": "/live-word-now/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/live-word-now/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4f488296.chunk.js.LICENSE.txt": "/live-word-now/static/js/2.4f488296.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33045d70.js",
+    "static/js/2.4f488296.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.4fe3a74b.chunk.js"
+  ]
+}
